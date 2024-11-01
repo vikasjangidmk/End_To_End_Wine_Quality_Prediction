@@ -23,7 +23,7 @@ This project is structured to create a full pipeline for predicting wine quality
 2. **Update `schema.yaml`**: Define the data schema.
 3. **Update `params.yaml`**: Set model parameters.
 4. **Update the `entity` module**: Define data entities.
-5. **Update configuration manager in `src` config**: Manage configurations.
+5. **Update configuration manager in `src/config`**: Manage configurations.
 6. **Update components**: Develop model components.
 7. **Update pipeline**: Assemble data processing and model pipelines.
 8. **Update `main.py`**: Execute the main script.
@@ -33,7 +33,7 @@ This project is structured to create a full pipeline for predicting wine quality
 
 ## 📊 Project Demo
 
-![Project Architecture](static/assets/img/red_wine.jpg)
+<img src="static/assets/img/red_wine.jpg" alt="Project Architecture" width="800" height="600" />
 *Figure: Project pipeline and architecture diagram*
 
 ---
@@ -71,7 +71,7 @@ This project is structured to create a full pipeline for predicting wine quality
 ### Steps:
 
 1. **Login to AWS Console**
-   - Navigate to AWS Console and login.
+   - Navigate to AWS Console and log in.
 
 2. **Create an IAM User for Deployment**
    - Grant specific access:
