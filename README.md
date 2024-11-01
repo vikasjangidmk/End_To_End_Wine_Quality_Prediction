@@ -29,7 +29,7 @@ This project is structured to create a full pipeline for predicting wine quality
 
 ## Project Demo
 
-![Project Architecture](path/to/architecture_diagram.png)
+![Project Architecture](C:\Users\vikas\End_To_End_Wine_Quality_Prediction\static\assets\img\red_wine.jpg)
 *Figure: Project pipeline and architecture diagram*
 
 ---
@@ -40,7 +40,7 @@ This project is structured to create a full pipeline for predicting wine quality
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/entbappy/End-to-End-Wine-Quality-Prediction
+    git clone https://github.com/vikasjangidmk/End_To_End_Wine_Quality_Prediction.git
     cd End-to-End-Wine-Quality-Prediction
     ```
 
