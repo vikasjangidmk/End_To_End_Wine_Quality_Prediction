@@ -1,19 +1,23 @@
-# End-to-End Wine Quality Prediction
+# 🍷 End-to-End Wine Quality Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Conda](https://img.shields.io/badge/Conda-environment-brightgreen)
 ![AWS](https://img.shields.io/badge/Deployed-AWS-orange)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-An end-to-end machine learning project to predict wine quality based on its characteristics, deployed using AWS EC2 and Docker with GitHub Actions CI/CD.
+---
+
+An **end-to-end machine learning project** to predict wine quality based on its characteristics. This project is deployed using **AWS EC2** and **Docker** with **GitHub Actions CI/CD**.
 
 ---
 
-## Project Overview
+## 🌟 Project Overview
 
 This project is structured to create a full pipeline for predicting wine quality, from data preparation to model deployment. The model is built and evaluated locally, then containerized and deployed on AWS with CI/CD integration.
 
-## Workflows
+---
+
+## 🔄 Workflows
 
 1. **Update `config.yaml`**: Modify configuration settings.
 2. **Update `schema.yaml`**: Define the data schema.
@@ -27,21 +31,21 @@ This project is structured to create a full pipeline for predicting wine quality
 
 ---
 
-## Project Demo
+## 📊 Project Demo
 
 ![Project Architecture](static/assets/img/red_wine.jpg)
 *Figure: Project pipeline and architecture diagram*
 
 ---
 
-## How to Run
+## 🚀 How to Run
 
 ### Steps:
 
 1. **Clone the Repository**
     ```bash
     git clone https://github.com/vikasjangidmk/End_To_End_Wine_Quality_Prediction.git
-    cd End-to-End-Wine-Quality-Prediction
+    cd End-To-End-Wine-Quality-Prediction
     ```
 
 2. **Create a Conda Environment**
@@ -62,7 +66,7 @@ This project is structured to create a full pipeline for predicting wine quality
 
 ---
 
-## AWS CI/CD Deployment with GitHub Actions
+## ☁️ AWS CI/CD Deployment with GitHub Actions
 
 ### Steps:
 
@@ -107,7 +111,7 @@ This project is structured to create a full pipeline for predicting wine quality
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
 ```plaintext
 ├── config.yaml         # Configuration file
