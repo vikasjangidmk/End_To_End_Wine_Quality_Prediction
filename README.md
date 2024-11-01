@@ -29,7 +29,7 @@ This project is structured to create a full pipeline for predicting wine quality
 
 ## Project Demo
 
-![Project Architecture](C:\Users\vikas\End_To_End_Wine_Quality_Prediction\static\assets\img\red_wine.jpg)
+![Project Architecture](static/assets/img/red_wine.jpg)
 *Figure: Project pipeline and architecture diagram*
 
 ---
